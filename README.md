@@ -1,4 +1,9 @@
 # NBA Game Prediction Models
+## Authors:
+
+1. Parth Shukla
+2. Matthew Saxsma
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
