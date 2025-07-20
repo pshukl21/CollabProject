@@ -26,4 +26,4 @@ We would like to have directories dedicated to various modeling approaches.
 ## Roadmap
 
 - [x] Autoencoder
-- [ ] Feed-forward neural network 
+- [ ] Feed-forward neural network
